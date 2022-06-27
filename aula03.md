@@ -7,7 +7,7 @@
 - Como acessar o vim
 - Comandos dentro do vim, como salvar o arquivo, sair do arquivo
 atalhos dentro do vim
--ACL (Permissões de Acesso)
+- ACL (Permissões de Acesso)
 
 
 ## Aproveitamento
