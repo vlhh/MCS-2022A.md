@@ -4,8 +4,8 @@
 ### Data: 13/06/2022
 
 ### Conteúdo
-- Acesso do Ubuntu pelo cmd
-- Vistos as pastas sbin, bin
+- Docker 
+- Governança de TI
 
 ### Aproveitamento
-0% - 100% (81%)
+0% - 100% (94%)
