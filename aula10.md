@@ -4,8 +4,7 @@
 ### Data: 25/04/2022
 
 ### Conteúdo
-- Instalação do mysql
-- Configuração do banco de dados
+- Arquivo que faz backup e descompactação (tar.gz)
 
 ### Aproveitamento
 0% - 100% (81%)
