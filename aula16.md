@@ -4,8 +4,9 @@
 ### Data: 06/06/2022
 
 ### Conteúdo
-- Docker
 - Artigo sobre Zabbix
+- Continuação da prova
+
 
 ### Aproveitamento
-0% - 100% (90%)
+0% - 100% (93%)
