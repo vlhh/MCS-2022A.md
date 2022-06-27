@@ -1,2 +1,3 @@
-# MCS-2022A.md
-MCS-2022A 
+INDICE
+aula01 - 14/02/2022
+aula02 - 
