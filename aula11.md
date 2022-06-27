@@ -5,7 +5,7 @@
 
 ### Conteúdo
 - Instalação do mysql
-
+- Configuração do banco de dados
 
 ### Aproveitamento
 0% - 100% (81%)
