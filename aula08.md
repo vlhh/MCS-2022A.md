@@ -6,6 +6,7 @@
 ### Conteúdo
 - Comandos do | grep
 - Comandos do ls e suas variações
+- Revisão da prova
 
 ### Aproveitamento
 0% - 100% (83%)
