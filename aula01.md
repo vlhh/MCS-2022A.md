@@ -3,13 +3,13 @@
 ### Aula: 01
 ### Data: 14/02/2022
 
-## Conteúdo
+### Conteúdo
 - Distribuições dos Linux
 - Instalação do Ubuntu Server
 - Configuração do Virtual Box
 - Configuração do Ubuntu Server
 
-## Aproveitamento
+### Aproveitamento
 0% - 100%  (20%)
 
 
