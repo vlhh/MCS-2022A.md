@@ -4,12 +4,11 @@
 ### Data: 21/02/2022
 
 
-## Conteúdo
+### Conteúdo
 - Teclas de atalhos do linux
 - Comandos e suas funções do linux
 - Comandos administrativos
 - Configuração de TimeZone
 
-
-## Aproveitamento
+### Aproveitamento
 0% - 100%  (10%)
